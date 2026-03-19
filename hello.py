@@ -1,2 +1,2 @@
-print("Hello, World!")
+print("Hello, Galaxy!")
 print ("Hi! Raylen Williams")
